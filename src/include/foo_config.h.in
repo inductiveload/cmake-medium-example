@@ -1,0 +1,6 @@
+#ifndef FOOPROJ_CONFIG_H__
+#define FOOPROJ_CONFIG_H__
+
+#define FOOPROJ_VERSION "@FOOPROJ_VERSION@"
+
+#endif
